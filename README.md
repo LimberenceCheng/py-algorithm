@@ -23,4 +23,7 @@ Python数据结构和算法
     - [quick_sort：快速排序](sort/quick_sort.py)
 - [tree：树](tree)
     - [traversal：遍历](tree/traversal)
+        - [inorder：中序遍历](tree/traversal/inorder.py)
+        - [level_order：层次遍历](tree/traversal/level_order.py)
+        - [zigzag：锯齿形遍历](tree/traversal/zigzag.py)
 
