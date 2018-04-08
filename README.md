@@ -21,4 +21,6 @@ Python数据结构和算法
 - [sort：排序](sort)
     - [bubble_sort：冒泡排序](sort/bubble_sort.py)
     - [quick_sort：快速排序](sort/quick_sort.py)
+- [tree：树](tree)
+    - [traversal：遍历](tree/traversal)
 
