@@ -26,6 +26,7 @@ Python数据结构和算法
     - [bubble_sort：冒泡排序](sort/bubble_sort.py)
     - [quick_sort：快速排序](sort/quick_sort.py)
     - [sort_colors：颜色排序](sort/sort_colors.py)
+    - [wiggle_sort：摇摆排序](sort/wiggle_sort.py)
 - [tree：树](tree)
     - [traversal：遍历](tree/traversal)
         - [inorder：中序遍历](tree/traversal/inorder.py)
